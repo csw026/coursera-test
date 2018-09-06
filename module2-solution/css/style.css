@@ -18,6 +18,10 @@ section > header {
     margin: 15px;
 }
 
+section > p {
+    clear: both;
+}
+
 #header1 {
     background-color: pink;
 }
