@@ -16,6 +16,8 @@ section > header {
     float: right;
     width: 120px;
     text-align: center;
+    margin-top: -10px;
+    margin-right: -10px;
 }
 
 section > p {
