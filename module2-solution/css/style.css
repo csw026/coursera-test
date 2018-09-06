@@ -7,11 +7,15 @@ section {
     background-color:gray;
     border: 4px solid;
     padding: 10px;
+    bottom-margin: 30px;
 }
 
 section > header {
     position: relative;
     right: 15px;
+    float: right;
+    width: 120px;
+    margin: 15px;
 }
 
 #header1 {
